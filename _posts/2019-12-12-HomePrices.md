@@ -6,10 +6,10 @@ tags: [dataviz, altair, hvplot, holoviews]
 excerpt: "Viz on craigslist prices and Department of Finance Data."
 altair-loader:
   scraped_1_Scatter: "charts/plot1_craigslistPrices.json"
-  scraped_2_MAP: "charts/plot2_craigslist_PriecByBorough.json"
+  scraped_2_MAP: "charts/plot2_craigslist_PricebyBorough.json"
   DOF_priceByBorough: "charts/plot3_prices_0915.json"
 hv-loader:
-  hv-chart-1: "charts/measlesHvplot.html"
+  DOF_priceByZIPCODe: "charts/plot5_priceZipCode.html"
 toc: true
 toc_sticky: true
 ---
