@@ -21,16 +21,7 @@ This post will show examples of embedding interactive charts produced using [Alt
 Below is an interactive scatter plot of price to size of homes for sale across different NYC boroughs in 2019 (based on current Craigslist listings). Click on the legend to view data on specific boroughs! 
 
 
-<div id="scraped_1_Scatter"></div>
-
-<div class="container">
-	<div class="row">
-		<div class="col-md-5"></div>
-		<div class="col-md-4">
-			<div id="scraped_1_Scatter"></div>
-		<div class="col-md-3"></div>
-	</div>
-</div>
+<div id="scraped_1_Scatter" style="width:80%; height: 500px"></div>
 
 
 
