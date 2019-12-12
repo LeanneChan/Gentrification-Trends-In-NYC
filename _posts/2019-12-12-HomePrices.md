@@ -9,7 +9,7 @@ altair-loader:
   scraped_2_MAP: "charts/plot2_craigslist_PricebyBorough.json"
   DOF_priceByBorough: "charts/plot3_prices_0915.json"
 hv-loader:
-  DOF_priceByZIPCODe: "charts/plot5_priceZipCode.html"
+  DOF_priceByZIPCODE: "charts/plot5_priceZipCode.html"
 toc: true
 toc_sticky: true
 ---
@@ -28,12 +28,15 @@ import altair as alt
 alt.renderers.enable('notebook')
 ```
 
-<h1> "Plot or Average Price Per Square Foot by Borough </h1>
+### More Craigslist 2 
+
+<h1 style="color:blue;"> Plot of Average Price Per Square Foot by Borough </h1>
 <div id="scraped_2_MAP"></div>
 
-## Holoviews Example
-
+## Department of Finance Data 
 Lastly, the measles incidence produced using the Holoviews package:
+
+<div id="DOF_priceByBorough"></div>
 
 <div id="DOF_priceByZIPCODe"></div>
 
