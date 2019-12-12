@@ -23,6 +23,15 @@ Below is an interactive scatter plot of price to size of homes for sale across d
 
 <div id="scraped_1_Scatter"></div>
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-5"></div>
+		<div class="col-md-4">
+			<div id="scraped_1_Scatter"></div>
+		<div class="col-md-3"></div>
+	</div>
+</div>
+
 
 
 ```python
