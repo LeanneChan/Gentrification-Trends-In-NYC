@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 620: Data Wrangling and Data Visualization"
+title: "Gentrification Trends in New York City Over the Past Decade"
 title_separator: "-"
-name: "Nick Hand"
-description: "Displaying cool data visualizations"
+name: "Yap Yunqi and Chan Lin-En Leanne"
+description: "Data visulizations of NYC trends! \n MUSA620 Final Project"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,7 +83,7 @@ naver_site_verification:
 
 # Social Sharing
 twitter:
-  username:
+  username: @PENNMusa
 facebook:
   username:
   app_id:
@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Yap Yunqi and Leanne Chan"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
-  location: "Philadelphia"
+  bio: "Postgraduates at the Weitzman School of Design Masters of Urban Spatial Analytics"
+  location: "University of Pennsylvania"
   email:
   links:
     - label: "Email"
@@ -135,21 +135,21 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/pennmusa?lang=en"
+   # - label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    #- label: "GitLab"
+     # icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+   # - label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url:
 
 # Reading Files
