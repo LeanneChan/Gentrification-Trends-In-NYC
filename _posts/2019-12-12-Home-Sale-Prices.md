@@ -1,6 +1,6 @@
 ---
-title: "Welcome to GitHub Pages!"
-date: 2019-04-18T15:34:30-04:00
+title: "Home Sale Prices Trends NYC"
+date: 2019-12-12T10:54:30-04:00
 categories:
   - blog
 tags:
@@ -8,6 +8,8 @@ tags:
   - update
 ---
 
+This is a tester test 
+we made this 
 You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are three main ways to make changes to your site:
 
 - Edit files within your in the browser at GitHub.com
