@@ -28,6 +28,9 @@ import altair as alt
 alt.renderers.enable('notebook')
 ```
 
+<h1> "Plot or Average Price Per Square Foot by Borough </h1>
+<div id="scraped_2_MAP"></div>
+
 ## Holoviews Example
 
 Lastly, the measles incidence produced using the Holoviews package:
