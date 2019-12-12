@@ -30,7 +30,7 @@ alt.renderers.enable('notebook')
 
 ### More Craigslist 2 
 
-<h1 style="color:blue;"> Plot of Average Price Per Square Foot by Borough </h1>
+<h1 style="color:yellow;"> Plot of Average Price Per Square Foot by Borough </h1>
 <div id="scraped_2_MAP"></div>
 
 ## Department of Finance Data 
@@ -38,7 +38,7 @@ Lastly, the measles incidence produced using the Holoviews package:
 
 <div id="DOF_priceByBorough"></div>
 
-<div id="DOF_priceByZIPCODe"></div>
+<div id="DOF_priceByZIPCODE"></div>
 
 ## Notes
 
