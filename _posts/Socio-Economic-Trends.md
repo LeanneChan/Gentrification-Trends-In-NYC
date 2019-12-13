@@ -22,6 +22,7 @@ Clicking on the bar chart allows the user to filter census tracts by borough, to
 
 <div id="altair-chart-1"></div>
 
+
 ## Abandoned Cars
 
 Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
