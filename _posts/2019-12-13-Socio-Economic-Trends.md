@@ -1,5 +1,5 @@
 ---
-title: "Socio-Economic Trends in New York City"
+title: "Socio-Economic Trends"
 date: 2019-12-13
 published: true
 tags: [dataviz, altair]
