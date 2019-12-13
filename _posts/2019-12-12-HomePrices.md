@@ -23,18 +23,14 @@ Below is an interactive scatter plot of price to size of homes for sale across d
 
 <div id="scraped_1_Scatter" style="width:2px; height: 500px;"></div>
 
-```python
-import altair as alt
-alt.renderers.enable('notebook')
-```
 
 ### More Craigslist 2 
 
-<h4 style="color:yellow;"> Plot of Average Price Per Square Foot by Borough </h4>
-<div id="scraped_2_MAP" style="padding-top: 100px; padding-left: 100px; padding-right: 100px;"></div>
+<h3 style="color:yellow;"> Plot of Average Price Per Square Foot by Borough </h4>
+<div id="scraped_2_MAP"></div>
 
 ## Department of Finance Data 
-Past data was downloaded from the Department of Finance and plotted. 
+Past data was downloaded from the [Department of Finance]("https://data.cityofnewyork.us/City-Government/NYC-Citywide-Annualized-Calendar-Sales-Update/w2pb-icbu") and plotted. 
 
 
 ### Plot 1: Comparison of AveragePrice per Square Foot across boroughs, 2009-2015. 
@@ -48,6 +44,8 @@ Past data was downloaded from the Department of Finance and plotted.
 <div id="DOF_priceByZIPCODE"></div>
 
 
+## GIF Construction Permits 1989-2019
+![GIF]({{site.url}}{{site.baseurl}}/assets/images/permits_89_19.gif)
 
 ## Notes
 
