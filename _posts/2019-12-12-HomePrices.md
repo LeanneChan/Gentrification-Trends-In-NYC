@@ -10,7 +10,7 @@ altair-loader:
   DOF_priceByBorough: "charts/plot3_prices_0915.json"
 hv-loader:
   DOF_priceByZIPCODE: "charts/plot5_priceZipCode.html"
-toc: true
+toc: false
 toc_sticky: false
 
 ---
