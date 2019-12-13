@@ -11,7 +11,7 @@ altair-loader:
 hv-loader:
   DOF_priceByZIPCODE: "charts/plot5_priceZipCode.html"
 toc: true
-toc_sticky: true
+toc_sticky: false
 ---
 
 This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
@@ -37,9 +37,17 @@ alt.renderers.enable('notebook')
 Past data was downloaded from the Department of Finance and plotted. 
 
 
+### Plot 1: Comparison of AveragePrice per Square Foot across boroughs, 2009-2015. 
 <div id="DOF_priceByBorough"></div>
 
+### Plot 2: Hexbin Facetgrid comparing Price of Housing to Size per borough over years. 
+![Hexbin FacetGrid]({{site.url}}{{site.baseurl}}/assets/images/plot4_Size_to_price_ByBoroughYear.png)
+
+
+### Plot 3: Map Average Price per Sqaure Foot across Zip Codes 2009-2015
 <div id="DOF_priceByZIPCODE"></div>
+
+
 
 ## Notes
 
