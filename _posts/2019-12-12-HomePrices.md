@@ -21,7 +21,7 @@ This post will show examples of embedding interactive charts produced using [Alt
 Below is an interactive scatter plot of price to size of homes for sale across different NYC boroughs in 2019 (based on current Craigslist listings). Click on the legend to view data on specific boroughs! 
 
 
-<div id="scraped_1_Scatter" style="width:2px; height: 500px"></div>
+<div id="scraped_1_Scatter" style="width:2px; height: 500px";></div>
 
 ```python
 import altair as alt
@@ -31,7 +31,7 @@ alt.renderers.enable('notebook')
 ### More Craigslist 2 
 
 <h4 style="color:yellow;"> Plot of Average Price Per Square Foot by Borough </h4>
-<div id="scraped_2_MAP"></div>
+<div id="scraped_2_MAP" style="padding-top: 10px; padding-left: 10px; padding-right: 10px;"></div>
 
 ## Department of Finance Data 
 Past data was downloaded from the Department of Finance and plotted. 
