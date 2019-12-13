@@ -26,7 +26,7 @@ Below is an interactive scatter plot of price to size of homes for sale across d
 
 ### More Craigslist 2 
 
-<h3 style="color:yellow;"> Plot of Average Price Per Square Foot by Borough </h4>
+<h3 style="color:yellow;"> Plot of Average Price Per Square Foot by Borough </h3>
 <div id="scraped_2_MAP"></div>
 
 ## Department of Finance Data 
