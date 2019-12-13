@@ -16,7 +16,7 @@ toc_sticky: false
 
 ---
 
-Home sale prices are a good indicator of gentrification as demand for housing in those areas increase and new developments are constructed. The amenities in these areas are also likely to improve, once again driving up sale prices. For the purpose of this analysis, Deparment of Finance Data (DOF) was used to analyze sale prices per zip code form 2009-2015. In order to get a proxy for current prices, Craigslist was scappred to home sale price data for 2019. 
+Home sale prices are a good indicator of gentrification as demand for housing in those areas increase and new developments are constructed. The amenities in these areas are also likely to improve, once again driving up sale prices. For the purpose of this analysis, data from the NYC Deparment of Finance Data (DOF) was used to analyze sale prices per zip code form 2009-2015. In order to get a proxy for current prices, Craigslist was scraped to home sale price data for 2019. 
 
 ## 2009-2015: Home Sale Prices by Zip Code
 
@@ -26,7 +26,7 @@ Past data was downloaded from the [Department of Finance]("https://data.cityofne
 <u style="color: #f768a1"> Average Price per Square Foot across Boroughs and Years</u>
 - The following plot was created using [Altair](https://altair-viz.github.io).
 - Click on the legend to filter to specific categories of price/sqft! 
-- Hover over each cirlce to get more information about the year, price/sqft and borough! 
+- Hover over each circle to get more information about the year, price/sqft and borough! 
 
 <div id="DOF_priceByBorough"></div>
 
@@ -39,9 +39,9 @@ From the above plot, it is clear that houses in the Bronx and Staten Island have
 
 ![Hexbin FacetGrid]({{site.url}}{{site.baseurl}}/assets/images/plot4_Size_to_price_ByBoroughYear.png)
 
-The relationship between the sale price to size is much less steep for the Bronx and Staten Island. In Brooklyn, we notice that over the years, the concetration of price to size becomes progressively streamlined and steeper, indicating that there is an increase in overall sale price per square feet. This could be an indication of rising land value, one of the effects of gentrification. We also notice that Manhattan has a rather wide range housing prices to size, and this could be a reason for the rather fluctuating average price per square feet over the years in the previous chart. Nonetheless, many of the Manhattan observations are clearly on the higher end of the sale price scale. 
+The relationship between the sale price to size is much less steep for the Bronx and Staten Island. In Brooklyn, we notice that over the years, the concentration of price to size becomes progressively streamlined and steeper, indicating that there is an increase in overall sale price per square feet. This could be an indication of rising land value, one of the effects of gentrification. We also notice that Manhattan has a rather wide range housing prices to size, and this could be a reason for the rather fluctuating average price per square feet over the years in the previous chart. Nonetheless, many of the Manhattan observations are clearly on the higher end of the sale price scale. 
 
-<u style="color: #f768a1">A Map of Average Price per Sqaure Foot across Zip Codes</u>** 
+<u style="color: #f768a1">A Map of Average Price per Square Foot across Zip Codes</u>** 
 - The following plot was created using [Holoviews](https://hvplot.pyviz.org/). 
 - Choose a year in the drop down menu to analyze!
 - Roll over the map to get more information about the price per square foot, zip code, borough and year! 
@@ -56,7 +56,7 @@ There is a clear spatial clustering of higher prices in New York City. Prices ha
 
 As current sale prices were not available online, we decided that listings by real estate for sale by official brokers on [Craigslist](https://newyork.craigslist.org/search/reb?) would be a good proxy for current houses on sale. We thus decided to scrape 600 listings for each of the 5 NYC boroughs and compare the sale price to size for each listing. 
 
-<u></u> style="color: #f768a1">Sale Price to Size for each Listing on Craigslist</u>** 
+<u style="color: #f768a1">Sale Price to Size for each Listing on Craigslist</u>** 
 - The following plot was created using [Altair](https://altair-viz.github.io).
 - Use the legend to filter the scatterplot to a specific borough! 
 - Zoom into the scatterplot to examine finer trends! 
