@@ -1,6 +1,6 @@
 ---
 title: "Socio-Economic Trends in New York City"
-date: 2019-04-17
+date: 2019-12-13
 published: true
 tags: [dataviz, altair]
 excerpt: "We compared census tract information for years 2009 and 2017 to examine socio-economic trends in New York City. "
