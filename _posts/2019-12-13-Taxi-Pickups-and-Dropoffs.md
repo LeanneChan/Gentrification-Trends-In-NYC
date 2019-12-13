@@ -1,5 +1,5 @@
 ---
-title: "Taxi Pickups and Dropoffs"
+title: "Taxi Pickups and Dropoffs in New York City"
 date: 2019-12-13
 published: true
 tags: [dataviz, hvplot, holoviews]
