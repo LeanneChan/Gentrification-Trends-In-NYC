@@ -6,6 +6,7 @@ tags: [dask, big data]
 excerpt: "3 Million Points, 1 GIF"
 toc: true
 toc_sticky: false
+
 ---
 
 ## A GIF of Construction Permits 1989-2019 in New York City 
@@ -14,4 +15,4 @@ A rise in construction permits is a good indicator of gentrification as areas un
 
 ![GIF]({{site.url}}{{site.baseurl}}/assets/images/permits_89_19.gif)
 
-It is unclear if data for 1989 is an accurate representation of all construction permits, thus more research must be done to determine if construction was only concentrated around Queens. Over the past 30 years, construction has always been concentrated in Manhattan, but there is a clear trend of there being more construction in Brooklyn, especially the area closer to the East River. This could be because waterside developments are of demand. The proximity to Manhattan also makes the area a favorable site for workers to live in and commute into Manhattan. 
+Over the past 30 years, construction has always been concentrated in Manhattan, but there is a clear trend of there being more construction in Brooklyn, especially the area closer to the East River. This could be because waterside developments are of demand. The proximity to Manhattan also makes the area a favorable site for workers to live in and commute into Manhattan. It is unclear if data for 1989 is an accurate representation of all construction permits, thus more research must be done to determine if construction was only concentrated around Queens. 
