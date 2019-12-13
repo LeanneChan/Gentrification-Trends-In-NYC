@@ -22,9 +22,11 @@ Clicking on the bar chart allows the user to filter census tracts by borough, to
 
 <div id="altair-chart-1"></div>
 
+## Percentage Living Below 100% 
 
-## Abandoned Cars
+<div id="altair-chart-2"></div>
 
-Below, we show the distance between residential sales and the average distance to the 5 nearest 311 calls for abandoned cars.
+## Percentage White Population
 
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+<div id="altair-chart-3"></div>
+
