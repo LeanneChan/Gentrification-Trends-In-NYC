@@ -1,5 +1,5 @@
 ---
-title: "Home Sale Prices Trends NYC"
+title: "Example Page"
 date: 2019-12-12T10:54:30-04:00
 categories:
   - blog
