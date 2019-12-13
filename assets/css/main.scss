@@ -6,15 +6,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-/*.archive__item-title {
-  color: blue;
-}
-
-body {
-    margin: 0;
-    padding: 0;
-    color: #3b9cba;
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-    line-height: 1.5;
-}*/
