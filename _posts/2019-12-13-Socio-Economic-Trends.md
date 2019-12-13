@@ -4,7 +4,7 @@ date: 2019-12-13
 published: true
 tags: [dataviz, altair]
 excerpt: "We compared census tract information for years 2009 and 2017 to examine socio-economic trends in New York City. "
-altair loader: 
+altair-loader: 
   altair-chart-1: "charts/MedianIncome.json"
   altair-chart-2: "charts/PctPoverty.json"
   altair-chart-3: "charts/PctWhite.json"
