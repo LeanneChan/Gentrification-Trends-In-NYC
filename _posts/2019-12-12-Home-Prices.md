@@ -1,5 +1,5 @@
 ---
-title: "Home Sale Price Trends in New York"
+title: "Home Sale Price Trends in New York City"
 date: 2019-12-12
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
