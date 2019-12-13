@@ -12,7 +12,7 @@ toc: true
 toc_sticky: false
 ---
 
-# Median Household Income
+## Median Household Income
 
 The following is an interactive chart comparing median income of households in 2009 and 2017. Tracts with no change in median income are reflected along the diagonal axis running from bottom left to top right of the plot; tracts that experienced increase in median income between 2009 and 2017 (possibly indicative of gentrification) are represented above this diagonal axis, while tracts that experienced a decrease in median income are represented below the diagonal axis. The shading of the plot indicates how many tracts (across New York City) belong within each category. 
 
