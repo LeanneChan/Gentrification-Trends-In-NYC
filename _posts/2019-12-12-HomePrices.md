@@ -21,7 +21,7 @@ Home sale prices are a good indicator of gentrification as demand for housing in
 Past data was downloaded from the [Department of Finance]("https://data.cityofnewyork.us/City-Government/NYC-Citywide-Annualized-Calendar-Sales-Update/w2pb-icbu") and plotted using [Altair](https://altair-viz.github.io), [Seaborn](https://seaborn.pydata.org/index.html), and [Holoviews](https://hvplot.pyviz.org/). 
 
 
-**Average Price per Square Foot across Boroughs and Years**
+<p style="color: yellow; text-decoration:bold"> Average Price per Square Foot across Boroughs and Years</p>
 - The following plot was created using [Altair](https://altair-viz.github.io). 
 - Click on the legend to filter to specific categories of price/sqft! 
 - Hover over each cirlce to get more information about the year, price/sqft and borough! 
