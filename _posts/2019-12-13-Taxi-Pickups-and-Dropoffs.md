@@ -21,7 +21,7 @@ We examined taxi pickups and dropoffs in New York City between January and June 
 
 <div id="hv-chart-2"></div>
 
-## Yellow Cab Dropoffs
+## Yellow Cab Pickups
 
 <div id="hv-chart-3"></div>
 
