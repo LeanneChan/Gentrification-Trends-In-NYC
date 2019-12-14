@@ -26,3 +26,4 @@ We examined taxi pickups and dropoffs in New York City between January and June 
 <div id="hv-chart-3"></div>
 
 <div id="hv-chart-4"></div>
+
