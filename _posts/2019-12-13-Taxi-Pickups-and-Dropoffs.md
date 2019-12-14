@@ -19,10 +19,14 @@ We examined taxi pickups and dropoffs in New York City between January and June 
 
 <div id="hv-chart-1"></div>
 
+## please
+
 <div id="hv-chart-2"></div>
 
 ## Yellow Cab Pickups
 
 <div id="hv-chart-3"></div>
+
+## work
 
 <div id="hv-chart-4"></div>
