@@ -27,4 +27,4 @@ The following is an interactive application that allows users to specify an amen
 
 (If the dropdown menu and slider bar aren't appearing, please try scrolling to the right of the plot. We're having some trouble specifying the height and width of the iframe since this seems to vary with screen sizes). 
 
-(This might take a while to load - application is also viewable at https://serene-taiga-85680.herokuapp.com/Amenities_dashboard ).
+(This might take a while to load - application is also viewable at [this link](https://serene-taiga-85680.herokuapp.com/Amenities_dashboard} ).
