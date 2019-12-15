@@ -1,9 +1,9 @@
 ---
-title: "How Home Sale Prices Have Changed in NYC"
+title: "Home Sale Prices"
 date: 2019-12-12
 published: true
 tags: [dataviz, altair, hvplot, holoviews, seaborn, websraping]
-excerpt: "Visualising changes in home sale prices in New York City using data from Craigslist and the NYC Department of Finance. "
+excerpt: "We visualized changes in home sale prices in New York City using data from Craigslist and the NYC Department of Finance."
 altair-loader:
   scraped_1_Scatter: "charts/plot1_craigslistPrices.json"
   scraped_2_MAP: "charts/plot2_craigslist_PricebyBorough.json"
