@@ -23,3 +23,5 @@ The following is a heatmap with 4 layers: neighborhoods, boroughs, dining amenit
 The following is an interactive application that allows users to specify an amenity and a value of 'n', to examine the average proximity of each node within the network to its n-th nearest amenity. This hence serves as a measure of accessibility to amenities, which we take to be a measure of gentrification. At n=1 (i.e. distance from the closest amenity), it is clear that Manhattan and the parts of Brooklyn closest to Manhattan are the most well-served by amenities, relative to the other boroughs. This disparity becomes even more evident where n=10 (i.e. distance from the tenth nearest amenity). 
 
 <iframe src="https://serene-taiga-85680.herokuapp.com/Amenities_dashboard" height="1000" width="1000" frameBorder="0"></iframe>
+
+(This might take a while to load - application is also viewable at https://serene-taiga-85680.herokuapp.com/Amenities_dashboard )
