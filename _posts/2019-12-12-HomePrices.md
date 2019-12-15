@@ -53,7 +53,7 @@ To give a spatial context to the distribution of average price per square foot a
 
 There is a clear spatial clustering of high prices in New York City in the Manhattan borough. Throughout the city, prices have also been increasing overall from 2009 to 2015. Zip Code 11201 in Brooklyn (close to the East River) is clearly getting darker over the years relative to its neighboring zip codes, showing an increase in price especially in that zip code in Brooklyn. Prices went up from $503/sqft in 2009 to $1076/sqft in 2015. 
 
-## 2019 Sale Prices: Scrapping Craigslist 
+## 2019 Sale Prices: Scraping Craigslist 
 
 As current sale prices were not available online, we decided that listings of houses for sale by real estate brokers on [Craigslist](https://newyork.craigslist.org/search/reb?) would be a good proxy for the price of current houses on sale. We thus decided to scrape 600 listings for each of the 5 NYC boroughs and compare the sale price to size for each listing. 
 
