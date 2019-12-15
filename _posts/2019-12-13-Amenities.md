@@ -24,4 +24,4 @@ The following is an interactive application that allows users to specify an amen
 
 <iframe src="https://serene-taiga-85680.herokuapp.com/Amenities_dashboard" height="1000" width="1000" frameBorder="0"></iframe>
 
-(This might take a while to load - application is also viewable at https://serene-taiga-85680.herokuapp.com/Amenities_dashboard )
+(This might take a while to load - application is also viewable at https://serene-taiga-85680.herokuapp.com/Amenities_dashboard ).
