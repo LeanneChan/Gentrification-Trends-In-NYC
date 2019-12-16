@@ -22,7 +22,7 @@ The following is an interactive plot reflecting the number of pickups in each bo
 <div id="hv-chart-1"></div>
 
 
-The density of taxi dropoffs (and by extension leisure activities) between 5pm on Friday evening and 5am on Monday morning is also evident from the following plot, where most of Manhattan is lit in green, indicating high numbers of taxi dropoffs relative to the rest of the plot, colored in purple. The only exception is a tract in Queens, located at the bottom right corner of the map: this is the tract containing JFK airport, thereby explaining the unusual density of taxi dropoffs. 
+The density of taxi dropoffs (and by extension leisure activities) between 5pm on Friday evening and 5am on Monday morning is also evident from the following plot, where most of Manhattan is lit in green, indicating high numbers of taxi dropoffs relative to the rest of the plot, colored in purple. The only exception is a tract in Queens, which is shaded in blue (located at the bottom right corner of the map): this is the tract containing JFK airport, thereby explaining the unusual density of taxi dropoffs. 
 
 <div id="hv-chart-2"></div>
 
@@ -31,5 +31,7 @@ The density of taxi dropoffs (and by extension leisure activities) between 5pm o
 Similar plots were made for taxi pickups, which reflect similar trends as described above. 
 
 <div id="hv-chart-3"></div>
+
+The tract in Queens containing JFK airport is shaded in bright green in this map, suggesting that it experiences much higher volume of pickups relative to the rest of New York City as compared to the volume of dropoffs.
 
 <div id="hv-chart-4"></div>
